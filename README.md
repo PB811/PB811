@@ -1,6 +1,14 @@
+<div align="center">
+
 # Hi 👋, I'm Prathamesh Bheemanathi
 
-### AI/ ML Software Engineer
+## AI / ML Software Engineer
+
+</div>
+
+
+### I'm a AI ML Computer Science Engineer 👨‍💻.
+### I have been coding, believe or not, _since '14_ 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pb811&label=Profile%20views&color=0e75b6&style=flat" alt="pb811" /> </p>
 
