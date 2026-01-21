@@ -2,9 +2,7 @@
 
 ### AI/ ML Software Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PB811&label=Profile views&color=0e75b6&style=flat" alt="PB811" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PB811" alt="PB811" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pb811&label=Profile%20views&color=0e75b6&style=flat" alt="pb811" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
