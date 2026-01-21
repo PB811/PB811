@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/PB811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="PB811" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prathamesh-bheemanathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-bheemanathi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prathamesh-bheemanathi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prathamesh-bheemanathi/" height="30" width="40" /></a>
 <a href="https://kaggle.com/prathameshpb8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prathameshpb8" height="30" width="40" /></a>
 <a href="https://leetcode.com/pb811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pb811" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pb811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pb811" height="30" width="40" /></a>
