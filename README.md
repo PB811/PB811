@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=header" width="100%" />
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PB811&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PB811&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="95%" alt="Trophy" />
 </div>
 
 <br/>
@@ -90,4 +90,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PB811&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" width="100%" />
