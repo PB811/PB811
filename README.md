@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Prathamesh%20Bheemanathi&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Bheemanathi;AI+%2F+ML+Software+Engineer;Coding+since+'14+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathamesh+Bheemanathi;AI+%2F+ML+Software+Engineer;Coding+since+age+of+14+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -90,4 +90,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PB811&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00D9FF,100:6C63FF&height=120&section=footer" width="100%" />
