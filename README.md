@@ -28,81 +28,34 @@
 
 </div>
 
-<br/>
+---
 
-<h2 align="center">Languages, Technologies & Tools</h2>
-
-<div align="center">
-
-<p><i>Core Languages:</i></p>
-<p>
+<h3 align="center">Core Languages</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,c,cpp,java,go,js,ts&theme=dark" />
 </p>
 
-<br/>
-
-<p><i>Machine Learning & Deep Learning:</i></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,pandas,numpy&theme=dark" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" style="vertical-align: middle;"/>
-  <img src="https://cdn.simpleicons.org/huggingface" height="40" style="vertical-align: middle;"/>
-  <img src="https://cdn.simpleicons.org/mlflow/0194E2" height="40" style="vertical-align: middle;"/>
+<h3 align="center">Machine Learning & Deep Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" />
 </p>
 
-<br/>
-
-<p><i>Agentic AI Frameworks, MCP, RAGs, LLMs & AI Tool Calling:</i></p>
-<p>
-  <img src="https://cdn.simpleicons.org/langchain" height="40"/>
-  <img src="https://cdn.simpleicons.org/gradio/FF7C00" height="40"/>
-  <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="40"/>
-  <img src="https://cdn.simpleicons.org/ollama" height="40"/>
-</p>
-<ul>
-  <li>Agent & LLM orchestration, Prompt Engineering, Rapid Prototyping</li>
-</ul>
-
-<br/>
-
-<p><i>Backend Technologies:</i></p>
-<p>
+<h3 align="center">Agentic AI, LLMs & Backend</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nextjs,spring&theme=dark" />
 </p>
-<ul>
-  <li>System design for AI-powered applications, Inference APIs, Microservices, Async Processing</li>
-</ul>
 
-<br/>
-
-<p><i>Databases & Message Queues:</i></p>
-<p>
+<h3 align="center">Databases & Message Queues</h3>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,redis,kafka,rabbitmq,graphql&theme=dark" />
 </p>
-<ul>
-  <li>Structured & unstructured data storage</li>
-  <li>Streaming and event-based architectures</li>
-</ul>
 
-<br/>
-
-<p><i>MLOps, Cloud & DevOps:</i></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,jenkins,linux,git&theme=dark" />
+<h3 align="center">MLOps, Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,jenkins,linux,git,postman,selenium&theme=dark" />
 </p>
 
-<br/>
-
-<p><i>Testing & Automation:</i></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,selenium&theme=dark" />
-</p>
-<ul>
-  <li>API testing, automation, and validation. AI ML Evals</li>
-</ul>
-
-</div>
-
-<br/>
+---
 
 <h2 align="center">GitHub Stats</h2>
 
