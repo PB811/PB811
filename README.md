@@ -40,7 +40,15 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark" />
 </p>
 
-<h3 align="center">Agentic AI, LLMs & Backend</h3>
+<h3 align="center">AI & LLM Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" />
+</p>
+
+<h3 align="center">Backend & APIs</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nextjs,spring&theme=dark" />
 </p>
@@ -56,6 +64,12 @@
 </p>
 
 ---
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=PB811&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" alt="Trophy" />
+</div>
+
+<br/>
 
 <h2 align="center">GitHub Stats</h2>
 
