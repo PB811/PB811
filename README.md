@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&theme=tokyonight&height=200&section=header&text=Prathamesh%20Bheemanathi&fontSize=40&fontColor=38bdae&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=header&text=Prathamesh%20Bheemanathi&fontSize=40&fontColor=ffffff&fontFamily=Orbitron&animation=twinkling" width="100%" />
 
 <div align="center">
 
@@ -90,4 +90,4 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PB811&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" width="100%" />
