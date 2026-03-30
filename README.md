@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=header&text=Prathamesh%20Bheemanathi&fontSize=40&fontColor=ffffff&fontFamily=Orbitron&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=120&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Prathamesh%20Bheemanathi&fontSize=40&fontColor=ffffff&fontFamily=Orbitron" width="100%" />
 
 <div align="center">
 
@@ -17,9 +18,6 @@
 <a href="https://pb811.github.io/personal-portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
 </a>
-
-<br/><br/>
-
 <a href="https://github.com/PB811" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://linkedin.com/in/prathamesh-bheemanathi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://kaggle.com/prathameshpb8" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
